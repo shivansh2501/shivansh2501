@@ -41,8 +41,8 @@ I’ve helped reduce costs 📉, increase leads 📈, and automate analytics das
 🔌 **[Electricity Demand Forecasting](https://github.com/shivansh2501/elecviz-minor-project)**  
 > ML model using XGBoost with 92% accuracy. Helped cut grid costs by 15%!
 
-📈 **[Unemployment Trend Dashboard](https://public.tableau.com/app/profile/shivansh.bansal4037/viz/UnemploymentNumbersinUS/Sheet1)**  
-> Gender & age-based analysis of unemployment to drive policy insight.
+📈 **[Bank Customer Analysis](https://public.tableau.com/app/profile/shivansh.bansal4037/viz/BankCustomerAnalysis_17508539974940/MyStory)**  
+> Customer segmentation analysis of a bank to drive policy insight.
 
 ---
 
