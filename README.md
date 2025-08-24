@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Shivansh Bansal
 
-🎓 **BTech in Information Technology** | 💼 **Business Analyst @ KnN Consultants LLP**  
+🎓 **BTech in Information Technology** | 💼 **Decision Analytics Associate @ ZS**  
 📍 Delhi, India | 📧 sbansal.official@gmail.com | [🌐 LinkedIn](https://linkedin.com/in/shivansh-bansal-021b50202) | [💻 Portfolio](https://github.com/shivansh2501)
 
 ---
@@ -24,16 +24,15 @@ I’ve helped reduce costs 📉, increase leads 📈, and automate analytics das
 
 ## 🛠️ Experience Highlights
 
+### 💼 Decision Analytics Associate | ZS  
+*May 2024 – Present*
+
 ### 💼 Business Analyst | KnN Consultants LLP  
-*Jul 2024 – Present*
+*Jul 2024 – Apr 2024*
 - Boosted lead conversion by **15%** through data-driven funnel optimization.
 - Automated **10+ dashboards**, reducing manual work by **40%**.
 - Cut churn by **10%** via cohort analysis and predictive modeling.
 - Drove **18% reduction** in acquisition cost through CRM segmentation.
-
-### 🌱 Internships @ Nestlé & PNB Housing Finance  
-- Led segmentation of **500+ veterinarians** for better campaign engagement.  
-- Created Tableau dashboards that improved NPA detection accuracy by **95%**.
 
 ---
 
@@ -60,7 +59,7 @@ I’ve helped reduce costs 📉, increase leads 📈, and automate analytics das
 If you’re into **data storytelling**, **business analytics**, or just want to geek out over Python and dashboards — hit me up!
 
 💌 sbansal.official@gmail.com  
-🐙 [GitHub](https://github.com/shivansh2501) | 💼 [LinkedIn](https://linkedin.com/in/shivansh-bansal-021b50202)
+🐙 [GitHub](https://github.com/shivansh2501) | 💼 [LinkedIn](https://linkedin.com/in/shivansh2501)
 
 ---
 
