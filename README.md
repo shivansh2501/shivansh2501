@@ -36,7 +36,7 @@ I’ve helped reduce costs 📉, increase leads 📈, and automate analytics das
 
 ---
 
-## 📚 Projects I’m Proud Of
+## 📚 Projects
 
 🔌 **[Electricity Demand Forecasting](https://github.com/shivansh2501/elecviz-minor-project)**  
 > ML model using XGBoost with 92% accuracy. Helped cut grid costs by 15%!
