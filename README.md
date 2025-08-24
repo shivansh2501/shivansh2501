@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Shivansh Bansal
+# Hey there! I'm Shivansh Bansal
 
 🎓 **BTech in Information Technology** | 💼 **Decision Analytics Associate @ ZS**  
 📍 Delhi, India | 📧 sbansal.official@gmail.com | [🌐 LinkedIn](https://linkedin.com/in/shivansh-bansal-021b50202) | [💻 Portfolio](https://github.com/shivansh2501)
